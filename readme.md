@@ -1,5 +1,5 @@
 # Crawler-Python
-In this respo, we will use `Python` to scrape data. Ex: `Kickstarter`, `BBC`, `CNN`, `NYT`...
+In this repos, we will use `Python` to scrape data. Ex: `Kickstarter`, `BBC`, `CNN`, `NYT`...
 
 ---
 ## Skills
